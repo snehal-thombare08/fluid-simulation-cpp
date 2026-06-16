@@ -10,6 +10,9 @@ Real-time **Smoothed Particle Hydrodynamics (SPH)** fluid simulation built in C+
 - Left click & drag — add particles
 - Right click — clear all
 - Smooth 60 FPS simulation
+## screenshot
+https://raw.githubusercontent.com/snehal-thombare08/fluid-simulation-cpp/73f0ef67f5e48de46b214d4baf31cd59d7c5ee1c/Screenshot%202026-06-16%20172207.png
+
 
 ## 🛠️ Build Instructions
 
